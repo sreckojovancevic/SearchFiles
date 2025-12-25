@@ -1,4 +1,12 @@
-# SearchFiles - Multi-threaded AVX2 File Content Search
+# SearchFiles
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![.NET](https://img.shields.io/badge/.NET-9.0-blueviolet)](https://dotnet.microsoft.com/)
+[![Language C#](https://img.shields.io/badge/Language-C%23-orange)](https://docs.microsoft.com/dotnet/csharp/)
+
+A high-performance file search utility written in C# ...
+
+
 
 A **high-performance file search utility** written in C# (.NET 9.0) using **AVX2 SIMD instructions** and multi-threading. Designed for extremely fast content searches across directories and large disks (HDD/SSD/NVMe). Ideal for both **text content search** and **filename pattern search**.
 
