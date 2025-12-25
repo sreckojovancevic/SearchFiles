@@ -115,6 +115,9 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 > Inspired by personal need to search large OneDrive and network directories efficiently.
 
 ---
+## Acknowledgements
+
+This project README and some guidance were prepared with the assistance of **[ChatGPT](https://openai.com/chatgpt)**, an AI language model by OpenAI.
 
 ## Notes
 
