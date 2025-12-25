@@ -142,11 +142,3 @@ This project was developed with guidance from **ChatGPT (GPT-5 mini)**, which pr
 * Adjust **threading and buffer sizes** in the source code for specific workloads.
 * Avoid running other heavy disk-intensive tasks during large scans to maintain speed.
 
-```
-
----
-
-If you want, I can also **prepare the full repo structure including `.gitignore` and a small `LICENSE`** so you can directly upload it to GitHub cleanly.  
-
-Do you want me to do that next?
-```
